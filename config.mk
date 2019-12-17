@@ -1,4 +1,4 @@
-PREFIX ?= /usr/local
+PREFIX ?= /usr
 
 CXX ?= clang++
 CC ?= clang
