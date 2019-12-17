@@ -1,4 +1,4 @@
-PREFIX ?= /usr
+PREFIX ?= /opt
 
 CXX ?= clang++
 CC ?= clang
